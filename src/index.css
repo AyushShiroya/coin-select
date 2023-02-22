@@ -1,0 +1,22 @@
+body {
+  background-image: url("./pexels-pixabay-531880.jpg");
+  /* background-color: #008B8B; */
+
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  margin-top: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled),
+button:not(:disabled) {
+  cursor: pointer;
+  margin-top: 2%;
+  width: 50%;
+  margin-left: 25%;
+}
